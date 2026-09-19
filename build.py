@@ -18,6 +18,7 @@ NAV = [
     ("/#story", "My Story", ""),
     ("/#ministry", "Ministry", ""),
     ("/#grace-house", "Saved By Grace House", ""),
+    ("/#donate", "Donate", ""),
     ("/#speaking", "Speaking", ""),
     ("/#connect", "Contact", ""),
 ]
@@ -143,11 +144,11 @@ FOOTER = """</main>
         </div>
       </div>
       <div>
-        <h4>Get The Book</h4>
+        <h4>Get Involved</h4>
         <div class="footer-links">
-          <a href="/#book">Reserve Your Copy</a>
-          <a href="/#book">Sponsor Copies for Prisons</a>
-          <a href="/#connect">Bulk / Chaplain Orders</a>
+          <a href="/#book">Reserve the Book</a>
+          <a href="/#donate">Partner With Grace House</a>
+          <a href="https://gofund.me/cd8ef498" target="_blank" rel="noopener">Donate to Nazareth Farms</a>
         </div>
       </div>
     </div>
